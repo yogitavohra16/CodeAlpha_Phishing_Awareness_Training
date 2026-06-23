@@ -72,10 +72,10 @@ Users learn to identify:
 
 Includes examples of:
 
-* Google and Facebook phishing scams
-* COVID-19 phishing campaigns
-* Banking fraud attacks
-* Credential theft incidents
+* Google Docs Phishing Attack (2017)
+* PayPal Verification Scam
+* Microsoft 365 Credential Theft
+* Netflix Subscription Scam
 
 ### Prevention and Safety Tips
 
@@ -117,7 +117,7 @@ Includes examples of:
 
 ## Project Structure
 
-```text
+
 Phishing-Awareness-Training-Portal/
 │
 ├── index.html
@@ -137,9 +137,9 @@ Phishing-Awareness-Training-Portal/
 
 1. Download or clone the repository.
 
-```bash
-git clone https://github.com/your-username/CodeAlpha_Phishing_Awareness_Training.git
-```
+
+git clone https://github.com/yogitavohra16/CodeAlpha_Phishing_Awareness_Training.git
+
 
 2. Open the project folder.
 
